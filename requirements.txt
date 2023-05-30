@@ -1,0 +1,6 @@
+pandas
+numpy
+pydantic
+google-cloud-bigquery
+google-cloud
+mage-ai
